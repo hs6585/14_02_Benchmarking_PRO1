@@ -1,0 +1,5 @@
+Computer Name: ThinkpadPit
+Date of Test: 2026-06-18 10:20:13
+Bubble Sort Time: 8.209230 seconds
+Quick Sort Time: 0.024258 seconds
+
